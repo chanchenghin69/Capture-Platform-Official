@@ -1,1 +1,5 @@
-# Capture-Platform-Official
+#2023/5/11 14:53
+App文件夹中的的image_file为显著点的照片集
+App文件夹中的IMAGE为app的程序图标照片（ui）
+App文件夹中的ui为用ui写的MainWindow的设计页面
+py文件的话可以忽略clone、main和初始可以，目前只用实现功能py
